@@ -76,7 +76,7 @@
 
 [![Gmail](https://img.shields.io/badge/youremail@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)
-[![Blog](https://img.shields.io/badge/Dev%20Blog-Velog-brightgreen?style=flat-square)](https://velog.io/@yourid)
+[![Blog](https://img.shields.io/badge/Dev%20Blog-Velog-brightgreen?style=flat-square)](https://velog.io/@ehekaanldk)
 
 ---
 
