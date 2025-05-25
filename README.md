@@ -1,8 +1,8 @@
 
-<h1 align="center">👋 Hi, I’m Younghyun – Building Meaningful Intelligence with Data</h1>
+<h1 align="center">👋 Hi, I’m ehekaanldk – Building Meaningful Intelligence with Data</h1>
 <p align="center">
-  대화형 AI, 자연어처리, 데이터 기반 서비스에 몰입하고 있는<br>
-  개발자 Younghyun의 포트폴리오입니다.
+  생성형 AI, 클라우드, 데이터 기술을 기반으로 문제 해결형 서비스를 기획하고 구현하는 데 몰입하고 있는<br>
+  개발자 ehekaanldk의 포트폴리오입니다.
 </p>
 
 <p align="center">
@@ -51,6 +51,7 @@
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=flat&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4.svg?style=flat&logo=microsoftazure&logoColor=white)
 
 ---
 
