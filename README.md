@@ -30,9 +30,8 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [AI Lecture Summarizer](https://github.com/) | STT + GPT 기반 강의 자동 요약 서비스 | Flask, GPT API, LangChain, GCP |
-| [Voice Assistant Platform](https://github.com/) | 음성 인식 기반 AI 챗봇 플랫폼 | FastAPI, OpenAI, ChromaDB |
-| [Multi-Cloud Deployment](https://github.com/) | GCP + AWS 통합 배포 및 리소스 최적화 | Docker, VM, S3, RDS |
+| [AI ClickBait Dector] (https://github.com/ehekaanldk/clickbait-detector) | 낚시성기사 판별 서비스 | Fast API, GPT API, LangChain, Huggingface |
+| [Large waste streamlining system] (https://github.com/ehekaanldk/22_kibwaproject) | 데이터 분석 활용한 대형 폐기품(가전, 가구 등) 간소화 시스템 | TensorFlow, Kera, MongoDB, CNN, ResNet, DenseNet, OpenAI |
 
 > 각 프로젝트에는 실제 기술 선택 이유, 장애 해결 경험, 협업 방식까지 상세히 기술되어 있습니다.
 
