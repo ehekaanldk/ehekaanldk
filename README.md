@@ -32,6 +32,7 @@
 |--------|-------------|------------|
 | [AI ClickBait Dector] (https://github.com/ehekaanldk/clickbait-detector) | 낚시성기사 판별 서비스 | Fast API, GPT API, LangChain, Huggingface |
 | [Large waste streamlining system] (https://github.com/ehekaanldk/22_kibwaproject) | 데이터 분석 활용한 대형 폐기품(가전, 가구 등) 간소화 시스템 | TensorFlow, Kera, MongoDB, CNN, ResNet, DenseNet, OpenAI |
+| [Speech2KSL-AvatarGenerator] (https://github.com/Speech2KSL-AvatarGenerator) | chatGPT를 활용한 AI음성 수화 번역 서비스| |
 
 > 각 프로젝트에는 실제 기술 선택 이유, 장애 해결 경험, 협업 방식까지 상세히 기술되어 있습니다.
 
