@@ -66,7 +66,7 @@
       <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ehekaanldk&show_icons=true&include_all_commits=true&count_private=true&line_height=24&hide=issues&cache_seconds=14400" height="165">
     </picture>
   </a>
-  <p align="center">
+<p align="center">
   <!-- Top Languages (refresh + Python-friendly weights) -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
