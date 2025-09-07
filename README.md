@@ -61,16 +61,22 @@
   <!-- GitHub Stats (라이트/다크 자동 전환) -->
   <a href="https://github.com/ehekaanldk">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ehekaanldk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=24&hide=issues&cache_seconds=86400">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ehekaanldk&show_icons=true&include_all_commits=true&count_private=true&line_height=24&hide=issues&cache_seconds=86400">
-      <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ehekaanldk&show_icons=true&include_all_commits=true&count_private=true&line_height=24&hide=issues&cache_seconds=86400" height="165">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ehekaanldk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&line_height=24&hide=issues&cache_seconds=14400">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ehekaanldk&show_icons=true&include_all_commits=true&count_private=true&line_height=24&hide=issues&cache_seconds=14400">
+      <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ehekaanldk&show_icons=true&include_all_commits=true&count_private=true&line_height=24&hide=issues&cache_seconds=14400" height="165">
     </picture>
   </a>
-  <!-- Top Languages -->
+  <p align="center">
+  <!-- Top Languages (refresh + Python-friendly weights) -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehekaanldk&layout=compact&theme=radical&langs_count=8&hide=Jupyter%20Notebook&cache_seconds=86400" height="165">
+    <img
+      alt="Top langs"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyunseongshin&layout=compact&theme=radical&langs_count=10&hide=Jupyter%20Notebook&include_forks=true&size_weight=0.25&count_weight=0.75&cache_seconds=14400&v=2"
+      height="165"
+    >
   </a>
 </p>
+
 <p align="center">
   <!-- BOJ 뱃지 (https 로 교체) -->
   <a href="https://solved.ac/profile/wlgus021107">
